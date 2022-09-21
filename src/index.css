@@ -1,0 +1,55 @@
+.App-logo {
+  width: 100px;
+  margin-left: 100px;
+}
+.navbar {
+  background-color: rgba(0, 204, 255, 0.596);
+  padding: 10px;
+}
+
+.navbar a:hover {
+  color: #f1356d;
+}
+
+#navbarSupportedContent li a {
+  width: 150px;
+  text-align: center;
+}
+#navbarSupportedContent {
+  margin-left: 25%;
+}
+span {
+  border-right: 1px solid rgba(95, 95, 95, 0.429);
+  height: 20px;
+  margin-top: 10px;
+}
+.anime-preview h2{
+  color: blue;
+}
+.anime-preview p{
+  margin-left: 20px;
+}
+tbody tr td {
+  border: 1px solid black;
+  text-align: center;
+}
+table thead th {
+  border: 1px solid black;
+  text-align: center;
+}
+table thead {
+  background-color: rgba(0, 204, 255, 0.596);
+}
+.btn i {
+  font-size: 25px;
+  text-decoration: none;
+}
+#submit {
+  background-color: rgba(0, 204, 255, 0.596);
+  width: 120px;
+}
+.fa {
+  border-radius: 10px;
+  box-shadow: 0px 24px 9px 0px #000000c0;
+  height: 13px;
+}
